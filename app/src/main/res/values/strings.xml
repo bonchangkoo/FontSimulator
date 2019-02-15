@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FontSimulator</string>
+
+    <string name="example_hint">텍스트를 입력해주세요</string>
+    <string name="value_example">10</string>
+
+    <string name="font_size">Font Size</string>
+    <string name="line_spacing">Line Spacing</string>
+    <string name="letter_spacing">Letter Spacing</string>
+    <string name="font_normal">Normal</string>
+    <string name="font_bold">Bold</string>
+
+    <string name="sp_holder">%d sp</string>
+    <string name="dp_holder">%d dp</string>
+    <string name="height_dp_holder">height %d dp</string>
+
+    <string name="px_under_two_holder">%.2f</string>
+
+    <string name="app_finish_msg">한번 더 누르시면 종료됩니다.</string>
+
+    <string name="single_line_example">Donec pellentesque vulputate vulputate</string>
+
+    <string name="multi_line_example">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget metus dui.
+    Vivamus et orci commodo, volutpat enim at, scelerisque felis. Mauris quis viverra urna, aliquam commodo odio.
+    Pellentesque iaculis, lacus sed dapibus lobortis, velit dui gravida purus, nec sollicitudin lectus eros eu dolor. Suspendisse potenti.
+    Etiam porta sed nisl sit amet sagittis. Sed tempus risus a ipsum luctus tincidunt.</string>
+
+    <string name="app_version_low_msg">간격 조절은 안드로이드 OS 버전 5.0 부터 지원됩니다.</string>
+</resources>
